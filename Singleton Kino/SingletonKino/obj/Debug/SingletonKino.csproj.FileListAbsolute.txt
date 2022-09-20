@@ -1,0 +1,24 @@
+C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\bin\Debug\WypozyczalniaSingleton.exe.config
+C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\bin\Debug\WypozyczalniaSingleton.exe
+C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\bin\Debug\WypozyczalniaSingleton.pdb
+C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.csproj.AssemblyReference.cache
+C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.csproj.CoreCompileInputs.cache
+C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.exe
+C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.pdb
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.csproj.AssemblyReference.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.csproj.CoreCompileInputs.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.exe
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.pdb
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\WypozyczalniaSingleton\bin\Debug\WypozyczalniaSingleton.exe.config
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\WypozyczalniaSingleton\bin\Debug\WypozyczalniaSingleton.exe
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\WypozyczalniaSingleton\bin\Debug\WypozyczalniaSingleton.pdb
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\SingletonKino\obj\Debug\SingletonKino.csproj.AssemblyReference.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\SingletonKino\obj\Debug\SingletonKino.csproj.SuggestedBindingRedirects.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\SingletonKino\obj\Debug\SingletonKino.csproj.CoreCompileInputs.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\SingletonKino\bin\Debug\SingletonKino.exe.config
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\SingletonKino\bin\Debug\SingletonKino.exe
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\SingletonKino\bin\Debug\SingletonKino.pdb
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\SingletonKino\obj\Debug\SingletonKino.exe
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Singleton Kino\SingletonKino\obj\Debug\SingletonKino.pdb

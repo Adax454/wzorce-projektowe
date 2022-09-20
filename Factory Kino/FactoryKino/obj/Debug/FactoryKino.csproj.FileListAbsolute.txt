@@ -1,0 +1,8 @@
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Factory Kino\FactoryKino\obj\Debug\FactoryKino.csproj.AssemblyReference.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Factory Kino\FactoryKino\obj\Debug\FactoryKino.csproj.SuggestedBindingRedirects.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Factory Kino\FactoryKino\obj\Debug\FactoryKino.csproj.CoreCompileInputs.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Factory Kino\FactoryKino\bin\Debug\WypozyczalniaFactory.exe.config
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Factory Kino\FactoryKino\bin\Debug\WypozyczalniaFactory.exe
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Factory Kino\FactoryKino\bin\Debug\WypozyczalniaFactory.pdb
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Factory Kino\FactoryKino\obj\Debug\WypozyczalniaFactory.exe
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Factory Kino\FactoryKino\obj\Debug\WypozyczalniaFactory.pdb
